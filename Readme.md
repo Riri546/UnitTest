@@ -31,4 +31,4 @@
 В качестве заполнения списка выбрал Random.
 
 ### Отчёт о покрытии кода тестами
-![report](C:\Users\LLosh\OneDrive\Рабочий стол\IT\UnitTests-06-master\report.jpg)
+![report](report.jpg)
